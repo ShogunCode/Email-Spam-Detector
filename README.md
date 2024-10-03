@@ -36,8 +36,8 @@ Spam detection is great starting point for a NLP. Detecting it efficiently is a 
    docker run --rm spam-detection python predict.py "Claim your free gift now!"
 
 
-Why Docker? 🐋
+### Why Docker? 🐋
 I wanted to explore Docker because it's a powerful tool that makes projects easily reproducible and has become industry standard. You can package everything up into one container, stealing Java's mantra of write once run anywhere. During my dissertation, I struggled to implement Docker, so I decided to learn from scratch with this project. Now, I’ve taken my first step towards using Docker for machine learning models!
 
-Future Plans 🚀
+### Future Plans 🚀
 Next up, I want to explore CNNs and deep learning to expand on my original dissertation project, but for now, I’m happy to get more comfortable with Docker and traditional machine learning. One foot infront of the other! 💪
